@@ -9,7 +9,7 @@ body {
     background-color: lightcyan;
     padding: 8px 20px;;
     border-radius: 4px;
-    transition-duration: 0.5s;
+    transition-duration: 0.6s;
     cursor: pointer;
 }
 .a:hover{
