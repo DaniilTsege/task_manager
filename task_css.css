@@ -1,0 +1,18 @@
+body {
+    background-color: lightgreen;
+    }
+.centr{
+    text-align: center
+}
+.a{
+    color: black;
+    background-color: lightcyan;
+    padding: 8px 20px;;
+    border-radius: 4px;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+.a:hover{
+    background-color: black;
+    color: aliceblue;
+}
